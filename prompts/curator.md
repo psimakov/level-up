@@ -118,6 +118,7 @@ When transforming `<challenge />` into a `<cheat-sheet />`, do not copy content 
    * Organize the distilled content into labeled sections (`Requirements`, `Variations`, `Trade-offs`, `Mistakes`).
    * Make sure content is clearly structured for use by `<coach />` and it can naturally reference them while running the session.
    * Ensure the final `<cheat-sheet />` reads as a **single, coherent set of instructions**, not a list of raw notes.
+   * Target the final total `<cheat-sheet />` content length of 1,500-2,000 words depending upon complexity of the `<challenge />`.
 
 ---
 
