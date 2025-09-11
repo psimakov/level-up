@@ -20,11 +20,19 @@ The best way to prepare for an interview is to **practice in real-time using Cha
 
 The system is built around a structured workflow that ensures high-quality, consistent interview practice:
 
-1. **`<expert />` Design** – A subject-matter expert creates a detailed interview `<challenge />`, outlining a specific system design problem.
-2. **`<curator />` Assistance** – An LLM agent, the `<curator />`, collaborates with the expert to produce a comprehensive `<cheat-sheet />`. This document highlights correct and incorrect solutions, trade-offs, and common pitfalls.
-3. **`<coach />` Simulation** – Another LLM agent, the `<coach />`, uses the `<cheat-sheet />` to act as your `<interviewer />`. It presents the challenge, asks follow-up questions, and evaluates your performance in a simulated interview session.
+1.  **`<expert />` Design** – A subject-matter expert creates a detailed interview `<challenge />`, outlining a specific system design problem.
+2.  **`<curator />` Assistance** – An LLM agent, the `<curator />`, collaborates with the expert to produce a comprehensive `<cheat-sheet />`. This document highlights correct and incorrect solutions, trade-offs, and common pitfalls.
+3.  **`<coach />` Simulation** – Another LLM agent, the `<coach />`, uses the `<cheat-sheet />` to act as your `<interviewer />`. It presents the challenge, asks follow-up questions, and evaluates your performance in a simulated interview session.
 
 This agent-based approach ensures every practice session is consistent, thorough, and aligned with expert-defined criteria.
+
+The agentic behavior is defined by a set of prompts stored in the [`./prompts`](./prompts) directory:
+
+*   [`system.md`](./prompts/system.md): Defines the roles of all actors (`<expert />`, `<curator />`, `<coach />`), the assets they produce (`<challenge />`, `<cheat-sheet />`), and the tools available to them.
+*   [`curator.md`](./prompts/curator.md): Contains the instructions for the `<curator />` agent, guiding it to help the `<expert />` produce a high-quality `<cheat-sheet />`.
+*   [`coach.md`](./prompts/coach.md): Provides the script for the `<coach />` agent to simulate a realistic `<interviewer />`.
+
+The output of the `<curator />` is a `<cheat-sheet />`, which is stored in the [`./cheat-sheets`](./cheat-sheets) directory. For example, [`ad-click-aggr.md`](./cheat-sheets/ad-click-aggr.md) contains a detailed guide for the `<coach />` on how to conduct an interview for the "Design Ad Click Aggregator" challenge.
 
 ## Adding a New Challenge and Creating `<cheat-sheet />`
 
