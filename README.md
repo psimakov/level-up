@@ -2,6 +2,20 @@
 
 **Level Up** is an interactive, AI-powered system that helps you prepare for system design interviews. It simulates a realistic interview experience, giving you a structured environment to practice, refine your skills, and receive consistent feedback.
 
+### Watch My Interview with AI Coach
+
+Here is a recording of an interview lead by Level Up AI Coach:
+
+<p style="text-align: center;">
+
+<iframe
+    width="560" height="315"
+    src="https://www.youtube.com/embed/n9nmauaeq88?si=LaYNVHfgY2IyXOm4"
+    title="From Luck to Skill: Using AI to Consistently Win System Design Interviews"
+    style="border: solid 8px #ccc; padding: 12px"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+></iframe>
+
 ## Available Challenges
 
 The best way to prepare for an interview is to **practice in real-time using ChatGPT’s live voice mode** -- it feels just like sitting across from an interviewer. Practice now with our well-known interview challenges:
