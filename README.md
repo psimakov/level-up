@@ -24,13 +24,29 @@ The system is built around a structured workflow that ensures high-quality, cons
 
 This agent-based approach ensures every practice session is consistent, thorough, and aligned with expert-defined criteria.
 
-## Adding a New Challenge
+## Adding a New Challenge and Creating `<cheat-sheet />`
 
-Extending the system with new interview questions is simple. Experts can contribute by creating additional `<challenge />` dossiers. The system provides specialized tools to streamline this process:
+To add a new challenge, follow these steps:
 
-* `<check-challenge />` – Validates the completeness of a new challenge.
-* `<make-cheat-sheet />` – Automatically generates a structured cheat sheet from challenge content.
-* `<check-prompts />` – Ensures the integrity and consistency of the entire agentic system.
+1.  **Create a Challenge File**: Add a new YAML file (e.g., `my-challenge.yaml`) to the `./challenges` directory.
+2.  **Populate the Challenge**: Fill the file with comprehensive details about the challenge. You can source this information from online articles, books, or other resources.
+3.  **Use Gemini CLI Tools**:
+    *   Run `<check-challenge />` to validate the challenge's completeness.
+    *   Execute `<make-cheat-sheet />` to automatically generate a structured `<cheat-sheet />` from the challenge.
+
+## Publishing a New Challenge as a Custom GPT
+
+Publishing a new challenge as a Custom GPT is easy:
+
+1.  Go to [**chatgpt.com/gpts**](https://chatgpt.com/gpts) and click the **"Create"** button.
+2.  Paste the content of [`agents/customChatGPT.md`](./agents/customChatGPT.md) into the **Instructions** field.
+3.  Rename the cheat sheet file for your challenge (e.g., `my-challenge.md`) to `challenge.md`.
+4.  Upload two files to the **Knowledge** section:
+    *   `prompts/coach.md`
+    *   `challenge.md` (the file you just renamed).
+5.  Test your new GPT and publish it.
+
+Open your new GPT and start chatting with it—either by text or, even better, by **voice**!
 
 ## Author
 
