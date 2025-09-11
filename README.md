@@ -8,7 +8,7 @@ The best way to prepare for an interview is to **practice in real-time using Cha
 
 * [**Design a Rate Limiter**](https://chatgpt.com/g/g-68c2229f7a308191bf87fea2e1e37002-level-up)
 
-It's **free**, but you may run out of voice quat quickly... 
+It’s **free** to use, but your voice quota may run out quickly.
 
 ## How It Works
 
