@@ -4,9 +4,11 @@
 
 ## Available Challenges
 
-The best way to prepare for an interview is to **practice in real-time using ChatGPT’s live voice mode** -- it feels just like sitting across from an interviewer. It's **free**, but you may run out of voice quat quickly... You can start immediately with our well-known interview challenges, designed to sharpen your skills under realistic conditions:
+The best way to prepare for an interview is to **practice in real-time using ChatGPT’s live voice mode** -- it feels just like sitting across from an interviewer. Practice now with our well-known interview challenges:
 
 * [**Design a Rate Limiter**](https://chatgpt.com/g/g-68c2229f7a308191bf87fea2e1e37002-level-up)
+
+It's **free**, but you may run out of voice quat quickly... 
 
 ## How It Works
 
