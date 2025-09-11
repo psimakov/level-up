@@ -11,8 +11,8 @@ The best way to prepare for an interview is to **practice in real-time using Cha
 * [**Design Ad Click Aggregator**](https://chatgpt.com/g/g-68c237fe2fc08191ab80bbea5a0ddc19-level-up-design-ad-click-aggregator) *hard*
 * [**Design YouTube**](https://chatgpt.com/g/g-68c2388e17a48191be8ce66e4fa66455-level-up-design-video-upload-streaming-service) *hard*
 * [**Design URL Shortener**](https://chatgpt.com/g/g-68c2395859048191a66e713f595b692c-level-up-design-url-shortener) *hard*
-**
-It’s **live now** and **free to use** -- available in ChatGPT web or mobile app.
+
+> It’s **live now** and **free to use** -- available in **ChatGPT** web or mobile app.
 
 ## How It Works
 
