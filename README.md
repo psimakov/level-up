@@ -2,9 +2,9 @@
 
 **Level Up** is an interactive, AI-powered system that helps you prepare for system design interviews. It simulates a realistic interview experience, giving you a structured environment to practice, refine your skills, and receive consistent feedback.
 
-### See It In Action
+## See It In Action
 
-* video: [**My `Desigin A Rate Limiter` Interview with AI Coach**](https://www.youtube.com/watch?v=n9nmauaeq88)
+* video: [**My Interview with AI Coach: `Design A Rate Limiter`**](https://www.youtube.com/watch?v=n9nmauaeq88)
 * article: [**From Luck to Skill: Using AI to Consistently Win System Design Interviews**](https://softwaresecretweapons.com/opinion/gemini-cli-masterclass/gemini-cli-interviews.html)
 
 ## Available Challenges
