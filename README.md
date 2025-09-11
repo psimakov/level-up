@@ -51,9 +51,7 @@ Publishing a new challenge as a Custom GPT is easy:
 1.  Go to [**chatgpt.com/gpts**](https://chatgpt.com/gpts) and click the **"Create"** button.
 2.  Paste the content of [`agents/customChatGPT.md`](./agents/customChatGPT.md) into the **Instructions** field.
 3.  Rename the cheat sheet file for your challenge (e.g., `my-challenge.md`) to `challenge.md`.
-4.  Upload two files to the **Knowledge** section:
-    *   `prompts/coach.md`
-    *   `challenge.md` (the file you just renamed).
+4.  Upload `coach.md` and `challenge.md` to the **Knowledge** section.
 5.  Test your new GPT and publish it.
 
 Open your new GPT and start chatting with it—either by text or, even better, by **voice**!
