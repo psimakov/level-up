@@ -6,11 +6,13 @@
 
 The best way to prepare for an interview is to **practice in real-time using ChatGPT’s live voice mode** -- it feels just like sitting across from an interviewer. Practice now with our well-known interview challenges:
 
-* [**Design A Rate Limiter**](https://chatgpt.com/g/g-68c2229f7a308191bf87fea2e1e37002-level-up) *medium*
-* [**Design FB News Feed**](https://chatgpt.com/g/g-68c2371e2e608191992474be4ced2a2f-level-up-design-social-news-feed) *medium*
-* [**Design Ad Click Aggregator**](https://chatgpt.com/g/g-68c237fe2fc08191ab80bbea5a0ddc19-level-up-design-ad-click-aggregator) *hard*
-* [**Design YouTube**](https://chatgpt.com/g/g-68c2388e17a48191be8ce66e4fa66455-level-up-design-video-upload-streaming-service) *hard*
-* [**Design URL Shortener**](https://chatgpt.com/g/g-68c2395859048191a66e713f595b692c-level-up-design-url-shortener) *hard*
+* *medium* difficulty
+    * [**Design A Rate Limiter**](https://chatgpt.com/g/g-68c2229f7a308191bf87fea2e1e37002-level-up)
+    * [**Design FB News Feed**](https://chatgpt.com/g/g-68c2371e2e608191992474be4ced2a2f-level-up-design-social-news-feed)
+* *hard* difficulty
+    * [**Design Ad Click Aggregator**](https://chatgpt.com/g/g-68c237fe2fc08191ab80bbea5a0ddc19-level-up-design-ad-click-aggregator) 
+    * [**Design YouTube**](https://chatgpt.com/g/g-68c2388e17a48191be8ce66e4fa66455-level-up-design-video-upload-streaming-service)
+    * [**Design URL Shortener**](https://chatgpt.com/g/g-68c2395859048191a66e713f595b692c-level-up-design-url-shortener)
 
 > It’s **live now** and **free to use** -- available in **ChatGPT** web or mobile app.
 
