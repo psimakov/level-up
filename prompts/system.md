@@ -17,7 +17,7 @@
 ### Assets
 
 * `<challenge />`:
-  A source dossier developed by the <expert />, with support from the <curator />, that aggregates all materials relevant to a specific interview challenge. It may include the problem statement and scope, detailed solution walkthroughs, records of past interviews, tutorials, video transcripts, and any other resources required to generate the <cheat-sheet /> for this challenge.
+  A source dossier developed by the `<expert />`, with support from the `<curator />`, that aggregates all materials relevant to a specific interview challenge. It may include the problem statement and scope, detailed solution walkthroughs, records of past interviews, tutorials, video transcripts, and any other resources required to generate the `<cheat-sheet />` for this challenge.
 
 * `<cheat-sheet />`:
   A structured reference document derived from the `<challenge />`, co-produced by the `<expert />` and `<curator />`. It captures:
